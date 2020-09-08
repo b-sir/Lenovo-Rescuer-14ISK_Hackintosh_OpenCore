@@ -7,14 +7,20 @@
 
 
 # OpenCore
-- OpenCore 0.5.9
-- OSX 10.15.5
+- OpenCore 0.6.1
+- OSX 10.15.6
 
 
 # kext
+
 https://github.com/acidanthera/Lilu/releases
+
 https://github.com/acidanthera/WhateverGreen/releases
+
 https://github.com/acidanthera/VirtualSMC/releases
+
 https://github.com/acidanthera/AppleALC/releases
+
 https://github.com/acidanthera/AirportBrcmFixup/releases
+
 https://github.com/acidanthera/NVMeFix/releases
