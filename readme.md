@@ -7,8 +7,8 @@
 
 
 # OpenCore
-- OpenCore 0.6.1
-- OSX 10.15.6
+- OpenCore 0.6.2
+- OSX 10.15.7
 
 
 # kext
