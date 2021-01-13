@@ -1489,7 +1489,7 @@
 		<array>
 			<string>NvmExpressDxe.efi</string>
 			<string>HfsPlus.efi</string>
-			<string>ApfsDriverLoader.efi</string>
+			<string>#ApfsDriverLoader.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>#OpenCanopy.efi</string>
 			<string>#AudioDxe.efi</string>
@@ -1575,7 +1575,7 @@
 			<key>AppleSecureBoot</key>
 			<false/>
 			<key>AppleSmcIo</key>
-			<true/>
+			<false/>
 			<key>AppleUserInterfaceTheme</key>
 			<false/>
 			<key>DataHub</key>
