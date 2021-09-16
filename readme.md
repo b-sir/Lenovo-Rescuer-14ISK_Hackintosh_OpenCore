@@ -7,8 +7,8 @@
 
 
 # OpenCore
-- OpenCore 0.6.7
-- OSX 11.1
+- OpenCore 0.7.3
+- OSX 11.5.2
 
 
 # kext
@@ -26,3 +26,7 @@ https://github.com/acidanthera/AirportBrcmFixup/releases
 https://github.com/acidanthera/NVMeFix/releases
 
 https://github.com/acidanthera/AppleSupportPkg/releases
+
+# OpenCore
+
+https://github.com/acidanthera/OpenCorePkg/releases
