@@ -7,7 +7,7 @@
 
 
 # OpenCore
-- OpenCore 0.7.3
+- OpenCore 0.8.0
 - OSX 12.1
 
 
