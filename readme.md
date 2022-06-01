@@ -19,7 +19,8 @@ https://github.com/acidanthera/Lilu/releases
 WhateverGreen-1.5.8-DEBUG
 https://github.com/acidanthera/WhateverGreen/releases
 
-VirtualSMC最新版本无法正常运行、使用旧版本1.1.5
+VirtualSMC-1.2.9-DEBUG
+其中的SMCProcessor.kext最新版本无法正常运行、使用旧版本1.1.5
 https://github.com/acidanthera/VirtualSMC/releases
 
 AppleALC-1.7.1-DEBUG
