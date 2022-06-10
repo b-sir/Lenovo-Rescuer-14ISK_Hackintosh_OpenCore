@@ -7,7 +7,7 @@
 
 
 # OpenCore
-- OpenCore 0.8.0
+- OpenCore 0.8.1
 - OSX 12.1
 
 
@@ -16,7 +16,7 @@
 Lilu-1.6.0-DEBUG
 https://github.com/acidanthera/Lilu/releases
 
-WhateverGreen-1.5.8-DEBUG
+WhateverGreen-1.5.9-DEBUG
 https://github.com/acidanthera/WhateverGreen/releases
 
 VirtualSMC-1.2.9-DEBUG
