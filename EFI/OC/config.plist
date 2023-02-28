@@ -1637,7 +1637,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02653600GUHMHK8C</string>
+			<string>0000000000000000</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1651,9 +1651,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T104XGVC1</string>
+			<string>000000000000</string>
 			<key>SystemUUID</key>
-			<string>72809E5D-BEA1-46C8-8369-1AC915CDD96F</string>
+			<string>00000000-0000-0000-0000-000000000000</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
