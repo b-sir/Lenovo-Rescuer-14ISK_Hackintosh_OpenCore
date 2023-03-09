@@ -32,6 +32,9 @@ https://github.com/acidanthera/AirportBrcmFixup/releases
 NVMeFix-1.1.0-DEBUG
 https://github.com/acidanthera/NVMeFix/releases
 
+
+https://github.com/acidanthera/HibernationFixup/releases
+
 https://github.com/acidanthera/AppleSupportPkg/releases
 
 # OpenCore
