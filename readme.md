@@ -7,13 +7,13 @@
 
 
 # OpenCore
-- OpenCore 0.8.9
+- OpenCore 0.9.0
 - OSX 12.1
 
 
 # kext
 
-Lilu-1.6.3-DEBUG
+Lilu-1.6.4-DEBUG
 https://github.com/acidanthera/Lilu/releases
 
 WhateverGreen-1.6.4-DEBUG
@@ -32,7 +32,7 @@ https://github.com/acidanthera/AirportBrcmFixup/releases
 NVMeFix-1.1.0-DEBUG
 https://github.com/acidanthera/NVMeFix/releases
 
-
+HibernationFixup-1.4.8-DEBUG
 https://github.com/acidanthera/HibernationFixup/releases
 
 https://github.com/acidanthera/AppleSupportPkg/releases

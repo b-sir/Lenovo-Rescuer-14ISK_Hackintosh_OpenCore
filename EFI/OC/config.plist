@@ -630,7 +630,7 @@
 				<key>Comment</key>
 				<string>Audio patches</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AppleALC</string>
 				<key>MaxKernel</key>
@@ -756,7 +756,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirportBrcmFixup</string>
 				<key>MaxKernel</key>
@@ -882,7 +882,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/HoRNDIS</string>
 				<key>MaxKernel</key>
@@ -1305,7 +1305,7 @@
 			<key>FuzzyMatch</key>
 			<true/>
 			<key>KernelArch</key>
-			<string>x86_64</string>
+			<string>Auto</string>
 			<key>KernelCache</key>
 			<string>Auto</string>
 		</dict>
@@ -1362,7 +1362,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>19</integer>
+			<integer>67</integer>
 		</dict>
 		<key>Entries</key>
 		<array>
