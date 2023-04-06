@@ -1362,7 +1362,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>67</integer>
+			<integer>19</integer>
 		</dict>
 		<key>Entries</key>
 		<array>
@@ -1514,7 +1514,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v debug=0x100 keepsyms=1 cpus=7</string>
+				<string>debug=0x100 keepsyms=1 cpus=7</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>

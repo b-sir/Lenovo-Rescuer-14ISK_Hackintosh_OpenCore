@@ -8,7 +8,7 @@
 
 # OpenCore
 - OpenCore 0.9.0
-- OSX 12.1
+- OSX 12.6.4
 
 
 # kext
